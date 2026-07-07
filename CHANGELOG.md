@@ -6,6 +6,11 @@ This project keeps a lightweight, reverse-chronological changelog. Dates use `YY
 
 0.2.0 beta development is open. Add user-facing changes here as they land.
 
+### Documentation
+
+- Added a descriptive related-tools comparison for `lean-lsp-mcp`, Pantograph, and Beam's
+  saved-file probe layer.
+
 ### Fixed
 
 - `lean-beam-mcp --self-check` now waits long enough for valid first-use local bundle builds and
